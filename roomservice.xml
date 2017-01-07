@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- twrp_development_sony -->
+<manifest>
+
+  <project name="TeamWin/android_device_qcom_common" path="device/qcom/common" remote="github" revision="android-7.1" />
+
+  <project name="fusion3-common/twrp_development_sony" path="device/sony/dogo" remote="github" revision="device_sony_dogo" />
+  <project name="fusion3-common/twrp_development_sony" path="device/sony/odin" remote="github" revision="device_sony_odin" />
+  <project name="fusion3-common/twrp_development_sony" path="device/sony/yuga" remote="github" revision="device_sony_yuga" />
+  <project name="fusion3-common/twrp_development_sony" path="device/sony/pollux" remote="github" revision="device_sony_pollux" />
+  <project name="fusion3-common/twrp_development_sony" path="device/sony/pollux_windy" remote="github" revision="device_sony_pollux_windy" />
+
+</manifest>
